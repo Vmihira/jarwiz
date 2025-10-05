@@ -1,0 +1,7 @@
+streamlit
+deepgram-sdk
+pinecone
+google-genai
+google-search-results
+PyPDF2
+python-dotenv
