@@ -1,7 +1,7 @@
 streamlit
 deepgram-sdk==3.*
 pinecone
-google-genai
+google-generativeai
 google-search-results
 PyPDF2
 python-dotenv
